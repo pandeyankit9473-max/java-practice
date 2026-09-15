@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "case_study_1",
+        "OOP-Case-Studies/src",
+        "case_study_3"
+    ],
+    "java.project.outputPath": "OOP-Case-Studies/out",
+
+    "code-runner.executorMap": {
+        "java": "cd \"$workspaceRoot/OOP-Case-Studies\" && mkdir -p out && javac -d out src/Main.java && java -cp out Main"
+    }
+}
