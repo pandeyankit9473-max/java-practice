@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "case_study_3",
         "case_study_1",
-        "OOP-Case-Studies/src",
-        "case_study_3"
+        "Case_Study_2",
+        "collections"
     ],
     "java.project.outputPath": "OOP-Case-Studies/out",
 
